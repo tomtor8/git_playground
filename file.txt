@@ -1,2 +1,6 @@
 This is my first line of the first commit.
-This is my second line of the second commit.
+This is my first line of the first commit.
+This is my first line of the first commit.
+This is my first line of the first commit.
+This is my first line of the first commit.
+This is my first line of the first commit.
